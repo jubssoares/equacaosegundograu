@@ -1,1 +1,1 @@
-# equacaosegundograu
+## O programa pede ao usuário os valores dos coeficientes de uma equação de segundo grau e a resolve. O programa deverá levar e conta todos os casos possíveis e imprimir as raízes da equação (ou uma mensagem, caso o discriminante seja negativo).
